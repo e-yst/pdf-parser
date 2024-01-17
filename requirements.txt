@@ -1,0 +1,5 @@
+pdf2image
+pdfminer.six
+Pillow
+PyPDF2
+tqdm
